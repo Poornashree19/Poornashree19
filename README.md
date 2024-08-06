@@ -30,9 +30,7 @@ Hi, I'm Poornashree! I am currently studying BE Computer Science Engineering at 
  
    2. **ONDUTY PERMISSION MANAGENMENT SYSTEM**
     - **Description:**
-      The OnDuty Form Management System is a web application designed to streamline the process of managing on-duty requests and approvals in an educational. This system allows users to submit on-duty forms, and administrators can review and approve or reject these requests. 
-
-      
+      The OnDuty Form Management System is a web application designed to streamline the process of managing on-duty requests and approvals in an educational. This system allows users to submit on-duty forms, and administrators can review and approve or reject these requests.   
    - **Technologies Used:** MongoDB, Express.js, Node.js,Javascript,Html,Css
 
 
