@@ -25,10 +25,13 @@ Hi, I'm Poornashree! I am currently studying BE Computer Science Engineering at 
  **Projects**
  1. **UBER CLONE**
    - **Description:**
-   - The Uber Clone project is a full stack web application that mimics the core functionalities of the popular ride-sharing service, Uber. This application allows users to book rides, view available drivers, and track ride status in real-time. 
+    The Uber Clone project is a full stack web application that mimics the core functionalities of the popular ride-sharing service, Uber. This application allows users to book rides, view available drivers, and track ride status in real-time. 
    - **Technologies Used:** Javascript,MongoDB, Express.js, Node.js,Html,Css
  
    2. **ONDUTY PERMISSION MANAGENMENT SYSTEM**
+    -**Description:**
+      The OnDuty Form Management System is a web application designed to streamline the process of managing on-duty requests and approvals in an educational. This system allows users to submit on-duty forms, and administrators can review and approve or reject these requests. 
+
       
    - **Technologies Used:** MongoDB, Express.js, Node.js,Javascript,Html,Css
 
