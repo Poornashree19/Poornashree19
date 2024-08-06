@@ -24,10 +24,12 @@ Hi, I'm Poornashree! I am currently studying BE Computer Science Engineering at 
 ### MERN Stack Projects
  **Projects**
  1. **UBER CLONE**
-   - **Description:** .
+   - **Description:**
+   - The Uber Clone project is a full stack web application that mimics the core functionalities of the popular ride-sharing service, Uber. This application allows users to book rides, view available drivers, and track ride status in real-time. 
    - **Technologies Used:** Javascript,MongoDB, Express.js, Node.js,Html,Css
  
    2. **ONDUTY PERMISSION MANAGENMENT SYSTEM**
+      
    - **Technologies Used:** MongoDB, Express.js, Node.js,Javascript,Html,Css
 
 
