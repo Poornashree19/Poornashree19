@@ -23,7 +23,8 @@ Hi, I'm Poornashree! I am currently studying BE Computer Science Engineering at 
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Others:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![RESTful APIs](https://img.shields.io/badge/-RESTful
+  - ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-blue)
+
 ## Projects
 ### MERN Stack Projects
  **Projects**
